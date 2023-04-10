@@ -1,4 +1,6 @@
 # Welcome to readme-md-generator 👋
+![Version](https://img.shields.io/static/v1?label=version&message=%3E=0.5.0&color=blue) ![npm](https://img.shields.io/static/v1?label=npm&message=%3E=0.5.0&color=blue) ![node](https://img.shields.io/static/v1?label=node&message=%3E=9.3.0&color=blue) ![documentation](https://img.shields.io/static/v1?label=documentation&message=yes&color=green) ![maintanined?](https://img.shields.io/static/v1?label=maintained?&message=yes&color=green) ![License](https://img.shields.io/static/v1?label=license&message=MIT&color=orange)
+
 CLI that generates beautiful README.md files
 ## 🏠  [Homepage](github.com/ZahidFarooqDar/readme-generator)
 ## Prerequisities
